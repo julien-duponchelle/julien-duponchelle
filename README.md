@@ -13,5 +13,6 @@ Hello I'm Julien
 * GNS3 - The network emulator (Core Contributor)
 * Python Mysql Replication - MySQL replication client library for Python (Creator)
 * USVN - Subversion web interface (Creator)
+* Docker OSX - Docker on OSX (Creator)
 
 Don't hesitate to send me an email if you want to talk about a project or just to say hi!
