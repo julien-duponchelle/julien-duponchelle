@@ -4,7 +4,7 @@ Hello I'm Julien
 
 * I'm Based in Paris
 * Speak French, English
-* Working for Trainline as Staff Engineer
+* Working for Wiremind
 * Fluent with Ruby, Python
 * Expert in working with third party APIs
 
